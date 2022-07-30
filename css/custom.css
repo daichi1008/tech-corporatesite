@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.top-img{
+    background-image: url(../img/img01.jpg);
+    background-size: cover;
+}
+
+.top-text{
+  text-align: center;
+  padding: 250px 0;
+}
+
+.top-text h1{
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive;
+}
+
+nav h3 {
+    font-family: 'Dancing Script', cursive;
+    color: black;
+}
+nav i{
+    color: #888;
+}
+
