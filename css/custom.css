@@ -81,8 +81,11 @@ footer ul li a{
     font-size: 13px;
 }
 
-footer ul li a:hover {
+footer ul li a :hover {
     color: white;
     text-decoration: none;
 }
 
+footer p{
+    text-align: right ;
+}
