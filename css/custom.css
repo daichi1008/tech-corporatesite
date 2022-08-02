@@ -7,6 +7,7 @@
 .top-img{
     background-image: url(../img/img01.jpg);
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .top-text{
@@ -32,6 +33,7 @@ nav i{
     background-size: cover;
     padding: 200px 0;
     text-align: center;
+    background-attachment: fixed;
 }
 
 .night-sky h2 {
@@ -81,7 +83,8 @@ footer ul li a{
     font-size: 13px;
 }
 
-footer ul li a :hover {
+
+footer ul li a:hover {
     color: white;
     text-decoration: none;
 }
